@@ -1,6 +1,7 @@
 # Titanic Machine Learning Project
 
-![Titanic](titanic.jpg)
+![titanic](https://github.com/ishikawa-yui/Titanic_kaggle_ML_project/assets/71602299/7ab0f30d-5f56-4d76-b40d-27d27ecd5518)
+
 
 This repository contains the code and data for my Titanic Machine Learning project, which is based on the famous Kaggle competition "Titanic: Machine Learning from Disaster". The goal of this project is to predict the survival of passengers aboard the Titanic based on various features like age, sex, ticket class, etc.
 
@@ -40,25 +41,3 @@ The dataset contains the following variables:
   - Parent = mother, father
   - Child = daughter, son, stepdaughter, stepson
   - Some children travelled only with a nanny, therefore parch=0 for them.
-
-## Project Structure
-
-The repository is organized as follows:
-
-- **data**: This folder contains the datasets used for training and testing the machine learning models.
-- **notebooks**: This directory includes Jupyter notebooks where the data exploration, feature engineering, and model training are performed.
-- **src**: This directory contains the source code of the machine learning models.
-- **models**: This folder stores the trained models that have been saved for future use.
-- **results**: This directory holds the evaluation results and any other project-related outputs.
-- **requirements.txt**: This file lists the required Python libraries and their versions to run the project.
-- **README.md**: You are currently reading this file, which provides an overview of the project.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/titanic-machine-learning.git
-cd titanic-machine-learning
