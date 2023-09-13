@@ -2,6 +2,8 @@
 
 ![titanic](https://github.com/ishikawa-yui/Titanic_kaggle_ML_project/assets/71602299/7ab0f30d-5f56-4d76-b40d-27d27ecd5518)
 
+(Using LogisticRegression)
+
 
 This repository contains the code and data for my Titanic Machine Learning project, which is based on the famous Kaggle competition "Titanic: Machine Learning from Disaster". The goal of this project is to predict the survival of passengers aboard the Titanic based on various features like age, sex, ticket class, etc.
 
